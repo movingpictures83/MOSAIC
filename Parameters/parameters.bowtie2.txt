@@ -1,0 +1,14 @@
+threads	8
+local	True
+nodiscordant	True
+nomixed	True
+all	True
+nounal	True
+sequences1	SRR3131774_1.fastq
+sequences2	SRR3131774_2.fastq
+db	C10008
+giveup	5
+repeat	1
+mismatch	0
+length	25
+interval	"S,1,2.00"

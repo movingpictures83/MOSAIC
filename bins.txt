@@ -1,0 +1,16 @@
+genome_bins/CA_C10008IS2120FE_t1M15__bin.2.fa
+genome_bins/CA_C10008IS2120FE_t1M15__bin.4.fa
+genome_bins/CA_C10008IS2120FE_t1M15__bin.6.fa
+genome_bins/CA_C10008IS2120FE_t1M15__bin.7.fa
+genome_bins/CA_C10008IS2123FE_t2M15__bin.1.fa
+genome_bins/CA_C10008IS2123FE_t2M15__bin.5.fa
+genome_bins/CA_C10008IS2127FE_t3M15__bin.1.fa
+genome_bins/CA_C10008IS2127FE_t3M15__bin.2.fa
+genome_bins/CA_C10008IS2131FE_t5M16__bin.10.fa
+genome_bins/CA_C10008IS2131FE_t5M16__bin.11.fa
+genome_bins/CA_C10008IS2131FE_t5M16__bin.12.fa
+genome_bins/CA_C10008IS2131FE_t5M16__bin.1.fa
+genome_bins/CA_C10008IS2131FE_t5M16__bin.2.fa
+genome_bins/CA_C10008IS2131FE_t5M16__bin.6.fa
+genome_bins/CA_C10008IS2131FE_t5M16__bin.7.fa
+genome_bins/CA_C10008IS2131FE_t5M16__bin.8.fa

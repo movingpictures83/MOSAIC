@@ -1,0 +1,2 @@
+target	bins.txt
+sample	SRR3131774.sam

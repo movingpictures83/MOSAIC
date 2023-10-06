@@ -1,0 +1,4 @@
+Prefix pipelines/MOSAIC/
+Plugin Bowtie2Build inputfile bins.txt outputfile C10008
+Plugin Bowtie2 inputfile Parameters/parameters.bowtie2.txt outputfile SRR3131774
+Plugin IRep inputfile Parameters/parameters.irep.txt outputfile SRR3131774.iRep
